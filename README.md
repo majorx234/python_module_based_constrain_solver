@@ -1,6 +1,6 @@
 # Info
-- WIP
-- a module based constrain server for geometric problems in mechanics
+- WIP (nothing useful yet)
+- a module based constrain solver for geometric problems in mechanics
 - to solve geometric problems in 2D in mechanisms
 
 # Aproaches
