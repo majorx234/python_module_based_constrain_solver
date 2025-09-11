@@ -1,7 +1,5 @@
-*.py[cod]
-.emacs.desktop
-__pycache__/
-.#*.*
-\#*#
-*.log
-env/
+*~
+*js#
+*/__pycache__/
+*/env/
+build
